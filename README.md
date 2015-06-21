@@ -1,2 +1,2 @@
 # AngularJS
-Demo
+Angular Demo
